@@ -1,0 +1,15 @@
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\bin\Debug\net6.0\02.Average Student Grades.exe
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\bin\Debug\net6.0\02.Average Student Grades.deps.json
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\bin\Debug\net6.0\02.Average Student Grades.runtimeconfig.json
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\bin\Debug\net6.0\02.Average Student Grades.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\bin\Debug\net6.0\02.Average Student Grades.pdb
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.csproj.AssemblyReference.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.AssemblyInfoInputs.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.AssemblyInfo.cs
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.csproj.CoreCompileInputs.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\refint\02.Average Student Grades.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.pdb
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\02.Average Student Grades.genruntimeconfig.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\02.Average Student Grades\obj\Debug\net6.0\ref\02.Average Student Grades.dll
