@@ -1,0 +1,15 @@
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.exe
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.deps.json
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.runtimeconfig.json
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\bin\Debug\net6.0\06. Record Unique Names.pdb
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.AssemblyReference.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfoInputs.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.AssemblyInfo.cs
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.csproj.CoreCompileInputs.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\refint\06. Record Unique Names.dll
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.pdb
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\06. Record Unique Names.genruntimeconfig.cache
+G:\SoftUni-C#-Advanced\Sets and Dictionaries Advanced\06. Record Unique Names\obj\Debug\net6.0\ref\06. Record Unique Names.dll
